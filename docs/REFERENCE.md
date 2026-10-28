@@ -1,7 +1,6 @@
 # aws-cloud source reference
 
-
-Source reviewed: [`dee0b571fc23`](https://github.com/noel-ult/aws-cloud/commit/dee0b571fc23eb4476c99f124c7ea495337c6a89).
+Source reviewed: [`b73b37d04752`](https://github.com/noel-ult/aws-cloud/commit/b73b37d047526ab4f62858a08afe7d5172806244).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -18,6 +17,9 @@ Paths are **as declared in each source file**. Router/blueprint mount prefixes f
 
 Historical plans/reports describe their own revision; use current source when they disagree.
 
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [README.md](../README.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 - [requirements.txt](../requirements.txt)
 
 ## Source and configuration map
